@@ -60,10 +60,21 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="30" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="30" alt="twitter logo"  />
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=gaudmeet00@gmail.com" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo" />
+</a>
+<a href="https://www.linkedin.com/in/sumit-gaud-3b3272225?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo" />
+</a>
+
+<a href="https://www.instagram.com/5umitra?igsh=eHlqcG4ybmhrbW9w" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="30" alt="instagram logo" />
+</a>
+
+<a href="https://x.com/SumitGaud15?t=OpXfAeAbIwoVm8ohycwmIw&s=09" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="30" alt="twitter logo" />
+</a>
+
 </div>
 
 ###
