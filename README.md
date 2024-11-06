@@ -75,9 +75,7 @@
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="30" alt="twitter logo" />
 </a>
 
-<a href="https://wa.me/7304607987" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=black&logoColor=white&labelColor=&style=flat" height="24" alt="whatsapp logo" />
-</a>
+
 
 </div>
 
